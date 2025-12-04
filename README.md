@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Giving robots a nervous system">
 <img src="https://raw.githubusercontent.com/Robo-Synaptic-Vaish/Robo-Synaptic-Vaish/main/banner.png" width="100%"/>
 
 <div align="center">
